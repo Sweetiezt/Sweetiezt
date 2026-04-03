@@ -22,29 +22,20 @@
 
 ### 📊 GitHub Stats 🎀
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sweetiezt&show_icons=true&include_all_commits=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sweetiezt&theme=default&layout=compact" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=Sweetiezt&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sweetiezt&layout=compact)
 
 ---
 
 ### 🏆 GitHub Trophies 🎀
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sweetiezt&theme=default&column=4" />
-</p>
+![Trophy](https://github-profile-trophy.vercel.app/?username=Sweetiezt)
 
 ---
 
 ### 🔥 GitHub Streak 🎀
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sweetiezt" />
-</p>
+![Streak](https://streak-stats.demolab.com/?user=Sweetiezt)
 
 ---
 
@@ -58,9 +49,7 @@
 
 ### 👀 Profile Views 🎀
 
-<p align="center">
-  <img src="https://visitor-badge.laobecfanyi.com/badge?page_id=Sweetiezt&left_color=ff69b4&right_color=ffb6c1" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Sweetiezt)
 
 ---
 
