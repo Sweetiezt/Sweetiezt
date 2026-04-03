@@ -22,20 +22,21 @@
 
 ### 📊 GitHub Stats 🎀
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Sweetiezt&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sweetiezt&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=Sweetiezt&count_private=true&show_icons=true&theme=light"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sweetiezt&theme=light&langs_count=8"/>
 
 ---
 
 ### 🏆 GitHub Trophies 🎀
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Sweetiezt)
+<img src="https://github-profile-trophy.vercel.app/?username=Sweetiezt&theme=light&column=4"/>
 
 ---
 
 ### 🔥 GitHub Streak 🎀
 
-![Streak](https://streak-stats.demolab.com/?user=Sweetiezt)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sweetiezt&theme=pink&background=fff0f5&border=ffb6c1&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakLabel=ff1493"/>
 
 ---
 
