@@ -22,21 +22,26 @@
 
 ### 📊 GitHub Stats 🎀
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sweetiezt&count_private=true&show_icons=true&theme=light"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sweetiezt&theme=light&langs_count=8"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sweetiezt&show_icons=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sweetiezt&layout=compact" alt="Top Langs"/>
+</p>
 
 ---
 
 ### 🏆 GitHub Trophies 🎀
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sweetiezt&theme=light&column=4"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sweetiezt" alt="Trophy"/>
+</p>
 
 ---
 
 ### 🔥 GitHub Streak 🎀
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sweetiezt&theme=pink&background=fff0f5&border=ffb6c1&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakLabel=ff1493"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sweetiezt&theme=pink&background=fff0f5&border=ffb6c1&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakLabel=ff1493" alt="Streak"/>
+</p>
 
 ---
 
