@@ -23,11 +23,11 @@
 ### 📊 GitHub Stats 🎀
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sweetiezt&show_icons=true&include_all_commits=true&theme=pink&bg_color=ffe6f0&title_color=ff69b4&text_color=ff1493&icon_color=ff69b4&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sweetiezt&show_icons=true&include_all_commits=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sweetiezt&theme=pink&layout=compact&bg_color=ffe6f0&title_color=ff69b4&text_color=ff1493" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sweetiezt&theme=default&layout=compact" />
 </p>
 
 ---
@@ -35,7 +35,7 @@
 ### 🏆 GitHub Trophies 🎀
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sweetiezt&theme=pink&column=4&title_color=ff69b4&text_color=ff1493&bg_color=ffe6f0&border_radius=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sweetiezt&theme=default&column=4" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ### 🔥 GitHub Streak 🎀
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sweetiezt&theme=pink&background=ffe6f0&border_radius=10&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakLabel=ff1493" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sweetiezt" />
 </p>
 
 ---
@@ -51,7 +51,7 @@
 ### 📈 Activity Graph 🎀
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sweetiezt&theme=pink&bg_color=ffe6f0&color=ff69b4&line=ff1493&point=ff69b4&area=true&hide_border=false" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sweetiezt" />
 </p>
 
 ---
@@ -59,7 +59,7 @@
 ### 👀 Profile Views 🎀
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sweetiezt&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+  <img src="https://visitor-badge.laobecfanyi.com/badge?page_id=Sweetiezt&left_color=ff69b4&right_color=ffb6c1" />
 </p>
 
 ---
